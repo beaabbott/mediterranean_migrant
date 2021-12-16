@@ -12,7 +12,7 @@ The International Organization of Migration (IOM) tracks migrant deaths and has 
 
 I also found some downloadable shapefiles of maritime borders that i will use. 
 
-<li>Source <a href="https://www.marineregions.org/downloads.php">@beazerk</a></li>
+<li>Source <a href="https://www.marineregions.org/downloads.php">Maritime Borders</a></li><br>
 
 I still need to figure out the best way to change the point size according to the number of individuals who died/disappeared in each event/point, and I'm hoping to find some good layers to lable the bodies of water and Greek Islands. 
 THen I will make a static web, explain the data and where it came from, and make the website! 
